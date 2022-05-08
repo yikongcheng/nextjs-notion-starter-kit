@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Caiji-s-Blog-b509b74a26c249f9a92fb1cfdbfb46b0',
+  rootNotionPageId: 'Caiji-s-Blog-5fbb3fdc2b2b40cf89f2a4a48f2b8fe1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'nextjs-notion-starter-kit',
-  domain: 'https://www.notion.so/Caiji-s-Blog-b509b74a26c249f9a92fb1cfdbfb46b0',
+  domain: 'https://solid-water-3bd.notion.site/Caiji-s-Blog-5fbb3fdc2b2b40cf89f2a4a48f2b8fe1,
   author: 'caiji',
 
   // open graph metadata (optional)
