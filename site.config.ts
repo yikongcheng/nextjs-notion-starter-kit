@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'caiji',
-  domain: 'https://solid-water-3bd.notion.site/7c02b4178560439082c6f16a43b560bf',
+  domain: 'https://www.notion.so/7c02b4178560439082c6f16a43b560bf',
   author: 'caiji',
 
   // open graph metadata (optional)
