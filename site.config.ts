@@ -16,10 +16,10 @@ export default siteConfig({
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
-  // social usernames (optional)
-  twitter: '',
-  github: 'yikongcheng',
-  linkedin: '',
+  // social usernames (optional)//不需要可以注释掉
+  // twitter: '',
+  // github: 'yikongcheng',
+  // linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
