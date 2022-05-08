@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'nextjs-notion-starter-kit',
-  domain: 'https://solid-water-3bd.notion.site/Caiji-s-Blog-5fbb3fdc2b2b40cf89f2a4a48f2b8fe1,
+  name: 'Caiji Blog',
+  domain: 'https://solid-water-3bd.notion.site/Caiji-s-Blog-5fbb3fdc2b2b40cf89f2a4a48f2b8fe1',
   author: 'caiji',
 
   // open graph metadata (optional)
